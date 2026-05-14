@@ -20,4 +20,4 @@ A modern landing page designed and developed for the **Brockport SigAi Student C
 * blog is simple with img title and intro text
 ---
 **Developed by:** Yubraj Khatri  
-**Course:** Ecommerce Marketplaces Final Presentation
+**class:** 26SP WEB PUB & DESGN 3525
